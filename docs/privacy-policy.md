@@ -63,3 +63,83 @@ Exemple conforme pour l’App Store Review (à adapter si besoin) :
   <array>
     <string>_oratio._tcp</string>
   </array>
+
+  ----------------------------------------------------------------------------------------------
+
+  Privacy Policy — Oratio
+
+Last Updated: August 21, 2025
+
+This policy describes how Oratio handles your data. We aim for transparency and data minimization.
+
+⸻
+
+1. Data Collected
+
+Oratio does not collect, store, or transmit any personal data to our servers.
+The app operates locally on your devices. No analytics data is sent by default.
+
+Depending on your usage, Oratio may access (with your consent) certain system resources:
+	•	Bluetooth: Used to detect and connect to compatible peripherals (e.g., hardware timer) and synchronize the timer display in real time.
+	•	Device identifiers are used temporarily to establish the connection and are not stored beyond the session.
+	•	Local Network (Bonjour/mDNS): Used to discover and communicate with Oratio devices (Master/Slave) on the same network.
+	•	Local IP addresses are used in volatile memory for direct communication and are not transmitted to third parties.
+
+Oratio does not access your contacts, photos, location, microphone, or camera, unless a future feature requires it, and only after your explicit consent.
+
+⸻
+
+2. Purpose of Use
+	•	To establish and maintain a connection with Oratio peripherals or devices (via Bluetooth or local network).
+	•	To synchronize and display timer information between devices during events.
+
+⸻
+
+3. Data Retention
+
+Technical data (e.g., Bluetooth identifiers, local IP addresses) is kept only in memory during the session and is not persisted.
+
+⸻
+
+4. Data Sharing
+	•	No data is shared with third parties.
+	•	No advertising SDKs are integrated.
+
+⸻
+
+5. Security
+	•	Local network communications are restricted to your LAN.
+	•	We recommend using password-protected networks and keeping your devices up to date.
+
+⸻
+
+6. Your Rights
+
+For any questions, access/deletion requests (if applicable), or assistance, please contact us:
+Email: djmb2016@gmail.com
+
+⸻
+
+7. Changes
+
+This policy may evolve. We will update the date above and, if necessary, notify users via release notes.
+
+⸻
+
+Authorization Strings (Info.plist)
+
+Example text conforming to App Store Review (adapt as needed):
+
+NSBluetoothAlwaysUsageDescription
+
+“Oratio uses Bluetooth to detect and connect to your hardware timers in order to synchronize the timer display in real time during your events. For example, the app connects to your timer module to start/stop and track elapsed time.”
+
+NSLocalNetworkUsageDescription
+
+“Oratio uses the local network to discover and synchronize Oratio devices (Master/Slave) on the same network during your events.”
+
+NSBonjourServices (example)
+  ```xml
+  <array>
+    <string>_oratio._tcp</string>
+  </array>
