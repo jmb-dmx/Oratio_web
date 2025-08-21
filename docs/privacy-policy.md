@@ -1,7 +1,3 @@
----
-title: Politique de confidentialité — Oratio
----
-
 # Politique de confidentialité — Oratio
 
 _Mise à jour : 21 août 2025_
