@@ -61,3 +61,67 @@ Elle permet la **synchronisation** entre un appareil *Master* et des appareils *
   - Captures/vidéo, modèle d’appareil, version d’iOS/iPadOS.
 
 Merci d’utiliser Oratio !
+
+-----------------------------------------------------------------------------------------
+
+Oratio — Support
+
+Welcome to the official Oratio support page.
+	•	App Name: Oratio
+	•	Current Version: 1.1
+	•	Contact: djmb2016@gmail.com
+	•	Privacy Policy: View the Privacy Policy
+
+⸻
+
+About
+
+Oratio is a professional timing application for audiovisual use (conferences, events).
+It enables synchronization between a Master device and Slave devices, full-screen display, and various customization options.
+
+⸻
+
+FAQ / Quick Guide
+
+1) First Use
+	1.	Install Oratio on your devices (iPhone/iPad).
+	2.	Open the app on the Master device, then on each Slave.
+	3.	Ensure that all devices are on the same network (local Wi-Fi).
+	4.	From the Master, set the duration and start: the Slave devices synchronize automatically.
+
+2) Pairing / Connecting to Hardware
+	•	If you use an external module (Bluetooth / local network):
+	1.	Enable Bluetooth if required.
+	2.	In Oratio, open the Connection panel and select the device.
+	3.	Check that the status changes to Connected.
+	•	Note: Oratio does not store peripheral information beyond the session.
+See: Privacy Policy.
+
+3) The Close Button Does Not Respond
+	•	Make sure you are using the latest version of the app.
+	•	Quit and relaunch the app.
+	•	If the issue persists on iPadOS 18.x, contact us at djmb2016@gmail.com providing:
+	•	Device model and iPadOS version,
+	•	Exact steps before tapping Close,
+	•	A short video if possible.
+
+4) Full-Screen Use (Slave Mode)
+	•	Rotate the device to landscape.
+	•	Enable full-screen mode from the app’s Settings.
+	•	Disable system notifications during the event.
+
+5) Local Network / Firewall
+	•	Allow Oratio on the local network when prompted by iOS.
+	•	Avoid guest/isolated networks (client isolation).
+	•	If you use mDNS/Bonjour, ensure it is not blocked by the router.
+
+⸻
+
+Support
+	•	Email: djmb2016@gmail.com
+	•	GitHub Issue Tracker: if you prefer, open an Issue including:
+	•	Clear title,
+	•	Steps to reproduce,
+	•	Screenshots/video, device model, iOS/iPadOS version.
+
+Thank you for using Oratio!
