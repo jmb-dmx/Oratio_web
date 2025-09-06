@@ -4,7 +4,7 @@ Bienvenue sur la page officielle de support de **Oratio**.
 
 - **Nom de l’app :** Oratio  
 - **Version actuelle :** 1.1  
-- **Contact :** djmb2016@gmail.com 
+- **Contact :** oratio.app@gmail.com
 - **Politique de confidentialité :** [Consulter la politique de confidentialité](./privacy-policy.md)
 
 ---
@@ -54,7 +54,7 @@ Elle permet la **synchronisation** entre un appareil *Master* et des appareils *
 
 ## Support
 
-- **Courriel** : djmb2016@gmail.com 
+- **Courriel** : oratio.app@gmail.com 
 - **Issue tracker GitHub** : si tu préfères, ouvre un *Issue* avec :
   - Titre clair,
   - Étapes pour reproduire,
@@ -69,7 +69,7 @@ Oratio — Support
 Welcome to the official Oratio support page.
 	•	App Name: Oratio
 	•	Current Version: 1.1
-	•	Contact: djmb2016@gmail.com
+	•	Contact: oratio.app@gmail.com
 	•	Privacy Policy: View the Privacy Policy
 
 ⸻
@@ -118,7 +118,7 @@ See: Privacy Policy.
 ⸻
 
 Support
-	•	Email: djmb2016@gmail.com
+	•	Email: oratio.app@gmail.com
 	•	GitHub Issue Tracker: if you prefer, open an Issue including:
 	•	Clear title,
 	•	Steps to reproduce,
