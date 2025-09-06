@@ -40,7 +40,7 @@ Selon vos usages, Oratio peut **accéder** (avec votre consentement) à des ress
 ## 6. Vos droits
 
 Pour toute question, demande d’accès/suppression (si applicable), ou assistance, écrivez-nous :  
-**Courriel :** djmb2016@gmail.com
+**Courriel :** oratio.app@gmail.com
 
 ## 7. Modifications
 
@@ -116,7 +116,7 @@ Technical data (e.g., Bluetooth identifiers, local IP addresses) is kept only in
 6. Your Rights
 
 For any questions, access/deletion requests (if applicable), or assistance, please contact us:
-Email: djmb2016@gmail.com
+Email: oratio.app@gmail.com
 
 ⸻
 
